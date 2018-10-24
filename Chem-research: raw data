@@ -1,3 +1,20 @@
+ 443 41e0 56d5e8a1  1ff
+Method       Method started:  line# 1 vial# 1 inj# 1        11:08:17 03/01/16
+  67 41e0 56d5e8a1    0
+Method       Instrument running sample Vial 1               11:08:17 03/01/16
+  67 41e0 56d5f06f    0
+Method       Instrument run completed                       11:41:35 03/01/16
+ 875 41e0 56d5f070    0
+Method       Saving Method RUN.M                            11:41:36 03/01/16
+  70 41de 56d5f071    0
+CP Macro     Analyzing rawdata 001-0101.D                   11:41:37 03/01/16
+  70 41de 56d5f076    0
+CP Macro     Saving GLP Data for rawdata 001-0101.D         11:41:42 03/01/16
+  67 41e0 56d5f076    0
+Method       Method completed                               11:41:42 03/01/16
+
+
+
 TABLE
 0,1
 "HPLC3D"
