@@ -1,0 +1,303 @@
+TABLE
+0,1
+"HPLC3D"
+VECTORS
+0,3
+""
+TUPLES
+0,0
+""
+DATA
+0,0
+""
+-1,0
+BOT
+1,0
+"Sample Name"
+1,0
+"Myoglobin"
+1,0
+""
+-1,0
+BOT
+1,0
+"Sample Info"
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"Data File"
+1,0
+"D:\HPCHEM\1\DATA\"
+1,0
+"001-0101.D"
+-1,0
+BOT
+1,0
+"Acq. Instrument"
+1,0
+"Instrument 1"
+1,0
+""
+-1,0
+BOT
+1,0
+"Analysis Method"
+1,0
+"D:\HPCHEM\1\METHODS\CE\"
+1,0
+"PIBRR.M"
+-1,0
+BOT
+1,0
+"Method Info"
+1,0
+"Isoelectric Focusing (separation by pI)
+"
+1,0
+""
+-1,0
+BOT
+1,0
+"Results Created"
+1,0
+"3/1/2016 11:41:41 AM"
+1,0
+""
+-1,0
+BOT
+1,0
+"Results Created by"
+1,0
+"Brandon Reed"
+1,0
+""
+-1,0
+BOT
+1,0
+"Acq. Method"
+1,0
+"PIBRR.M"
+1,0
+""
+-1,0
+BOT
+1,0
+"Injection Date"
+1,0
+"01-Mar-16, 11:21:09"
+1,0
+""
+-1,0
+BOT
+1,0
+"Acq. Operator"
+1,0
+"01-Mar-16, 11:21:09"
+1,0
+""
+-1,0
+BOT
+1,0
+"Seq. Line"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Location"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"unused Loc."
+0,0
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Inj"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Sequence File"
+1,0
+"D:\HPCHEM\1\SEQUENCE\"
+1,0
+"PIBRR2.S"
+-1,0
+BOT
+1,0
+"Start Current"
+0,0
+V
+1,0
+"µA"
+-1,0
+BOT
+1,0
+"Stop Current"
+0,34.149167
+V
+1,0
+"µA"
+-1,0
+BOT
+1,0
+"Start Voltage"
+0,0
+V
+1,0
+"KV"
+-1,0
+BOT
+1,0
+"Stop Voltage"
+0,29.86275
+V
+1,0
+"KV"
+-1,0
+BOT
+1,0
+"Report Title"
+1,0
+"Area Percent Report"
+1,0
+""
+-1,0
+BOT
+1,0
+"Sorted By"
+1,0
+"Signal"
+1,0
+""
+-1,0
+BOT
+1,0
+"Area Calculation Mode"
+1,0
+"Measured Area"
+1,0
+""
+-1,0
+BOT
+1,0
+"Multiplier"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Dilution"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Number of Signals"
+0,1
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Signal 1"
+1,0
+"DAD1 A, Sig=277,10 Ref=off"
+1,0
+""
+-1,0
+BOT
+1,0
+"Number of Errors and Warnings"
+0,0
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Number of Columns"
+0,7
+V
+1,0
+""
+-1,0
+BOT
+1,0
+"Column 1"
+1,0
+"Peak Number"
+1,0
+""
+-1,0
+BOT
+1,0
+"Column 2"
+1,0
+"Migration Time"
+1,0
+"min"
+-1,0
+BOT
+1,0
+"Column 3"
+1,0
+"Peak Type"
+1,0
+""
+-1,0
+BOT
+1,0
+"Column 4"
+1,0
+"Peak Width"
+1,0
+"min"
+-1,0
+BOT
+1,0
+"Column 5"
+1,0
+"  Area  "
+1,0
+" [mAU*s] "
+-1,0
+BOT
+1,0
+"Column 6"
+1,0
+"Height"
+1,0
+"  [mAU]  "
+-1,0
+BOT
+1,0
+"Column 7"
+1,0
+"  Area   %"
+1,0
+""
+-1,0,
+EOD
