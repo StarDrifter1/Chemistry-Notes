@@ -30,7 +30,39 @@ CP Macro     Saving GLP Data for rawdata 001-0101.D         11:41:42 03/01/16
   67 41e0 56d5f076    0
 Method       Method completed                               11:41:42 03/01/16
 
+/endcycle:
+Mode=1CE
+highpress=Off
+LoadVials=On
+LiftOfs=3
+Stoptime=20.00
+Posttime=Off
+Peakwidth=>0.03
+RawdataVoltage=On
+RawdataCurrent=On
+RawdataPower=On
+RawdataPressure=On
+RawdataCassTemp=On
+Voltage=30.00
+Current=SysLimit
+Power=SysLimit
+LowCurrent=Off
+CapTemp=25.00
+InletVial=16
+OutletVial=17
+HeightSensing=Off
+SwitchElectric=On
+Polarity=Positive
+Inject=Pressure,30.00,50.00
+Parallel=0
+ReplenUse=0
+PreconUse=1
+PostconUse=0
+cond pre FLUSH 3.00,21,29
+cond pre FLUSH 2.50,24,32
+cond pre FLUSH 5.00,18,36
 
+OUTPUT:
 
 TABLE 1
 0,1
